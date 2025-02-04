@@ -1,3 +1,3 @@
 # Hi, I'm Alex
 
-I'm a software developer.
+Student at @Epitech.
